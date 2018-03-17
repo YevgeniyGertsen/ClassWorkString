@@ -6,7 +6,7 @@
 #define SIZE 81
 #define LIMIT 20
 
-void main()
+void main1()
 {
 	int nz;
 	printf("Enter number task: ");
