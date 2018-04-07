@@ -145,8 +145,10 @@
     <ClCompile Include="Funktions.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Source1.cpp" />
+    <ClCompile Include="WorkWithStudent.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="HWorkWithStudent.h" />
     <ClInclude Include="proto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
